@@ -1,6 +1,5 @@
 # Ranger MCP Server
 
-This is a simple Model Context Protocol (MCP) server based on `FastMCP`.
 It consistently responds with "Ranger!" to any MCP tool request it receives via standard input/output (stdio).
 
 ## Usage
